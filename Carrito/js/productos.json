@@ -1,0 +1,242 @@
+[
+    {
+        "id": "pan dulce-01",
+        "titulo": "Conchita",
+        "imagen": "./img/pan dulce/01.png",
+        "categoria": {
+            "nombre": "Pan Dulce",
+            "id": "abrigos"
+        },
+        "precio": "10.50"
+    },
+    {
+        "id": "pan dulce-02",
+        "titulo": "Cupcake",
+        "imagen": "./img/pan dulce/02.png",
+        "categoria": {
+            "nombre": "cupcake",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan dulce-03",
+        "titulo": "Besitos",
+        "imagen": "./img/pan dulce/03.png",
+        "categoria": {
+            "nombre": "Besitos",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan dulce-04",
+        "titulo": "Orejas",
+        "imagen": "./img/pan dulce/04.png",
+        "categoria": {
+            "nombre": "Orejas",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan dulce-05",
+        "titulo": "Campechanas",
+        "imagen": "./img/pan dulce/05.png",
+        "categoria": {
+            "nombre": "Campechanas",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan dulce-06",
+        "titulo": "Gusanitos",
+        "imagen": "./img/pan dulce/06.png",
+        "categoria": {
+            "nombre": "Gusanitos",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Picos",
+        "imagen": "./img/pan dulce/07.png",
+        "categoria": {
+            "nombre": "Picos",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "Cuernitos",
+        "imagen": "./img/pan dulce/08.png",
+        "categoria": {
+            "nombre": "Cuernitos",
+            "id": "abrigos"
+        },
+        "precio": "10.00"
+    },
+
+
+
+
+
+    {
+        "id": "pan salado-01",
+        "titulo": "Sourdough de Semillas ",
+        "imagen": "./img/pan salado/01.png",
+        "categoria": {
+            "nombre": "Pan Salado ",
+            "id": "camisetas"
+        },
+        "precio": "32.00"
+    },
+    {
+        "id": "pan salado-02",
+        "titulo": "Pan de Agua Integral",
+        "imagen": "./img/pan salado/02.png",
+        "categoria": {
+            "nombre": "Pan de Agua Integral",
+            "id": "camisetas"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan salado-03",
+        "titulo": "Chapatona",
+        "imagen": "./img/pan salado/03.png",
+        "categoria": {
+            "nombre": "Chapatona",
+            "id": "camisetas"
+        },
+        "precio": "10.75"
+    },
+    {
+        "id": "pan salado-04",
+        "titulo": "Pan de Centeno",
+        "imagen": "./img/pan salado/04.png",
+        "categoria": {
+            "nombre": "Pan de Centeno",
+            "id": "camisetas"
+        },
+        "precio": "40.00"
+    },
+    {
+        "id": "pan salado-05",
+        "titulo": "Pan de Hogaza",
+        "imagen": "./img/pan salado/05.png",
+        "categoria": {
+            "nombre": "Pan de Hogaza",
+            "id": "camisetas"
+        },
+        "precio": "12.00"
+    },
+    {
+        "id": "pan salado-06",
+        "titulo": "Camiseta Birote",
+        "imagen": "./img/pan salado/06.png",
+        "categoria": {
+            "nombre": "Birote",
+            "id": "camisetas"
+        },
+        "precio": "11.00"
+    },
+    {
+        "id": "pan salado-07",
+        "titulo": "Pan Damper",
+        "imagen": "./img/pan salado/07.png",
+        "categoria": {
+            "nombre": "Pan Damper",
+            "id": "camisetas"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan salado-08",
+        "titulo": "Pan de Queso",
+        "imagen": "./img/pan salado/08.png",
+        "categoria": {
+            "nombre": "Pan de Queso",
+            "id": "camisetas"
+        },
+        "precio": "10.00"
+    },
+
+
+
+
+    {
+        "id": "pan premium-01",
+        "titulo": "Revani",
+        "imagen": "./img/pan premium/01.png",
+        "categoria": {
+            "nombre": "Pan Premium",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan premium-02",
+        "titulo": "Alfajores",
+        "imagen": "./img/pan premium/02.png",
+        "categoria": {
+            "nombre": "Alfajores",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan premium-03",
+        "titulo": "Cinnamon Roll Doble",
+        "imagen": "./img/pan premium/03.png",
+        "categoria": {
+            "nombre": "Cinnamon Roll Doble",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan premium-04",
+        "titulo": "Croissant Simple",
+        "imagen": "./img/pan premium/04.png",
+        "categoria": {
+            "nombre": "Croissant Simple",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan premium-05",
+        "titulo": "Croissant de Manzana",
+        "imagen": "./img/pan premium/05.png",
+        "categoria": {
+            "nombre": "Croissant de Manzana",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan premium-06",
+        "titulo": "Croissant de Almendra",
+        "imagen": "./img/pan premium/06.png",
+        "categoria": {
+            "nombre": "Croissant de Almendra",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "pan premium-07",
+        "titulo": "Panecito de Banano y Nutella",
+        "imagen": "./img/pan premium/07.png",
+        "categoria": {
+            "nombre": "Panecito de Banano y Nutella",
+            "id": "pantalones"
+        },
+        "precio": "10.00"
+    }
+    
+]
